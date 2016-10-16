@@ -1,0 +1,41 @@
+{
+  "name": "exploitfate/yii2-pager",
+  "description": "Yii2 smart link pager",
+  "version": "1.0.1",
+  "keywords": [
+    "yii2 smart link pager",
+    "yii2 link pager",
+    "yii2 pager",
+    "smart link",
+    "pager"
+  ],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "type": "library",
+  "homepage": "https://github.com/exploitfate/yii2-pager/",
+  "authors": [
+    {
+      "name": "Exploit Fate",
+      "email": "exploitfatea@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/exploitfate/yii2-pager/issues?state=open",
+    "source": "https://github.com/exploitfate/yii2-pager/"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "exploitfate\\yii2\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "develop"
+    }
+  }
+}
