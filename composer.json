@@ -1,7 +1,7 @@
 {
   "name": "exploitfate/yii2-pager",
   "description": "Yii2 smart link pager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "yii2 smart link pager",
     "yii2 link pager",
@@ -16,7 +16,7 @@
   "authors": [
     {
       "name": "Exploit Fate",
-      "email": "exploitfatea@gmail.com",
+      "email": "exploitfate@gmail.com",
       "role": "Developer"
     }
   ],
@@ -35,7 +35,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "develop"
+      "dev-master": "1.0x-dev"
     }
   }
 }
