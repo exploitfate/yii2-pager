@@ -1,7 +1,14 @@
 # yii2-pager
+
 Yii2 smart pager
 
 Another LinkPager for [Yii2 framework](http://www.yiiframework.com/) pagination.
+
+
+[![Latest Stable Version](https://poser.pugx.org/exploitfate/yii2-pager/v/stable)](https://packagist.org/packages/exploitfate/yii2-pager) 
+[![Total Downloads](https://poser.pugx.org/exploitfate/yii2-pager/downloads)](https://packagist.org/packages/exploitfate/yii2-pager) 
+[![Latest Unstable Version](https://poser.pugx.org/exploitfate/yii2-pager/v/unstable)](https://packagist.org/packages/exploitfate/yii2-pager) 
+[![License](https://poser.pugx.org/exploitfate/yii2-pager/license)](https://packagist.org/packages/exploitfate/yii2-pager)
 
 ## Install
 
@@ -99,4 +106,5 @@ echo \exploitfate\yii2\LinkPager::widget(
 ```
 
 ## License
+
 The MIT License (MIT). See [LICENSE](LICENSE) file.
