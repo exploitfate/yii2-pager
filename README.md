@@ -81,9 +81,9 @@ GridView
 ListView
 ```php
 
-// Override default parameters for \yii\grid\GridView
+// Override default parameters for \yii\grid\ListView
 \Yii::$container->set(
-    \yii\grid\GridView::className(),
+    \yii\grid\ListView::className(),
      [
         'pager' => [
             'class' => \exploitfate\yii2\LinkPager::className(),
