@@ -1,7 +1,7 @@
 {
   "name": "exploitfate/yii2-pager",
   "description": "Yii2 smart link pager",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "yii2 smart link pager",
     "yii2 link pager",
@@ -16,7 +16,7 @@
   "authors": [
     {
       "name": "Exploit Fate",
-      "email": "exploitfate@gmail.com",
+      "email": "exploitfate@yahoo.com",
       "role": "Developer"
     }
   ],
